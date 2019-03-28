@@ -1,0 +1,7 @@
+ESC	KEYWORD1
+
+setSpeed	KEYWORD2
+setDirection	KEYWORD2
+setRunningMode	KEYWORD2
+detach	KEYWORD2
+attach	KEYWORD2
